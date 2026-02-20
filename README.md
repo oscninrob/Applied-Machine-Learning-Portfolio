@@ -29,6 +29,8 @@ This repository is structured around three core paradigms of Machine Learning:
 ##  Why this approach?
 Coming from a pure Mathematics background (including research in Post-Quantum Cryptography), I approach Data Science with a focus on **algorithmic rigor**. I aim to build models that are not only accurate but also mathematically sound, optimized, and tailored to the specific constraints of the data available.
 
+**Note**: While this repository and documentation are in English, the inline markdown explanations within the older notebooks are written in Spanish. However, the Python logic, data pipelines, and mathematical models are universally readable.
+
 ---
 *Feel free to reach out if you want to discuss algorithms, XAI, or Data Science!*
 * **LinkedIn:** [https://www.linkedin.com/in/oscar-nino-robles/]
