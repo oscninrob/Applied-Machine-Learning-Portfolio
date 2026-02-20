@@ -4,7 +4,7 @@ Welcome to my Machine Learning portfolio. As a Mathematician specializing in Art
 
 Rather than just importing libraries, these notebooks focus on understanding the underlying mechanics, optimization processes, and trade-offs of different machine learning architectures.
 
-## 📂 Repository Contents
+##  Repository Contents
 
 This repository is structured around three core paradigms of Machine Learning:
 
@@ -20,13 +20,13 @@ This repository is structured around three core paradigms of Machine Learning:
 * **Topic:** Semi-Supervised Learning.
 * **Focus:** Addressing real-world data scarcity. Demonstrates techniques to leverage small amounts of labeled data alongside large pools of unlabeled data (e.g., Label Propagation, Pseudo-labeling), maximizing predictive performance when manual labeling is not feasible.
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 * **Languages:** Python
 * **Data Manipulation:** `pandas`, `NumPy`
 * **Machine Learning:** `scikit-learn`
 * **Visualization:** `matplotlib`, `seaborn`
 
-## 🧠 Why this approach?
+##  Why this approach?
 Coming from a pure Mathematics background (including research in Post-Quantum Cryptography), I approach Data Science with a focus on **algorithmic rigor**. I aim to build models that are not only accurate but also mathematically sound, optimized, and tailored to the specific constraints of the data available.
 
 ---
